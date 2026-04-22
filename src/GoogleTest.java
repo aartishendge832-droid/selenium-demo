@@ -18,6 +18,8 @@ public class GoogleTest {
 
         // Assertion using POM method
         Assert.assertEquals(googlePage.getPageTitle(), "Google");
+        
+        Assert.assertTrue(driver.getTitle().contains("Google"));
 
         driver.quit();
     }
