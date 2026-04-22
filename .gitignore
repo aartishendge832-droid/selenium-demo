@@ -1,0 +1,6 @@
+"# Git ignore for SeleniumDemo" 
+"/target/" 
+"/test-output/" 
+"*.class" 
+".idea/" 
+".settings/" 
