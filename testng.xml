@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DemoSuite">
+  <test name="GoogleTests">
+    <classes>
+      <class name="GoogleTest"/>
+      <class name="GoogelTestAssert"/>
+    </classes>
+  </test>
+</suite>
